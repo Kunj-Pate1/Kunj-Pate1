@@ -1,23 +1,23 @@
-# Hey, I'm Kunj Patel 👋
+# Kunj Patel
 
-I build things on the internet—mostly full-stack applications, backend systems, and the occasional idea that starts at 2 AM and somehow becomes a project.
+**Software engineer by profession.
+Builder by habit.
+Writer by escape.**
 
-Currently exploring Go, distributed systems, cloud infrastructure, and ways to write software that's simple, fast, and actually enjoyable to maintain.
+I enjoy turning ideas into dead side projects and understanding how complex systems work beneath the surface.
 
-Outside of code, you'll usually find me:
-- 📚 Writing and reading
-- ✍️ Working on ideas, essays, and stories
-- ☕ Hunting for good coffee
-- 🎵 Listening to music while debugging problems that definitely weren't there yesterday
-- 🌍 Learning about technology, business, psychology, and how people build things
+### Currently exploring
 
-### What I'm up to
+* System Design
+* Distributed Systems
+* Cloud Infrastructure
+* Startups & Product Building
 
-- Building full-stack applications
-- Learning Go and system design
-- Exploring cloud-native architectures
-- Writing whenever inspiration strikes
+### Beyond the code
 
-> I like creating things, whether that's software, stories, or completely unnecessary side projects.
+* ✍️ Writing when I need escape
+* 📚 Reading novels
+* * ⛰️ Small Treks whenever I can
+* 💪 Working out so my lazy ass survives sitting at a desk all day
 
-📫 Connect with me: [LinkedIn]() • [Twitter]() • [Portfolio]()
+My GitHub is equal parts playground and graveyard for projects that taught me something along the way.
